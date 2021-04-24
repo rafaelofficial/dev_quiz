@@ -1,4 +1,26 @@
-# dev_quiz
+# DEVQUIZ APP
+
+#### <i>NLW Week # 5 - Flutter Trail.</i>
+
+<i>The DevQuiz App is being developed. A question and answer application, where it takes the user to put his knowledge of technologies with Flutter into practice and rank him by easy, medium, difficult and expert levels.</i>
+
+
+
+<strong>Run devices:</strong>
+
+```dart
+flutter run
+```
+
+<strong>Run web:</strong>
+
+```dart
+flutter run -d chrome
+```
+
+
+
+
 
 A new Flutter project.
 
@@ -16,21 +38,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <br>
-
-# Trilha Flutter | Aula 01 - Liftoff
-
-> We're go for launch. É hora de decolar e partir rumo ao próximo nível. Esse é o começo da nossa missão.
-
-> ![image](./assets/images/nlw5.png)
-
-Run:
-
-```dart
-flutter run
-```
-
-Run web:
-
-```dart
-flutter run --chrome
-```
